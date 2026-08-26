@@ -26,19 +26,19 @@ const student = {
 
 const courses = [
   {
-    code: "GRAD-DEMO 501",
+    code: "GRAD 501",
     name: "Graduate Orchestra Seminar",
     schedule: "Monday & Wednesday · 10:00–11:20 AM",
     color: "bg-violet-500",
   },
   {
-    code: "GRAD-DEMO 514",
+    code: "GRAD 514",
     name: "Advanced Analytical Techniques",
     schedule: "Tuesday & Thursday · 1:00–2:20 PM",
     color: "bg-sky-500",
   },
   {
-    code: "GRAD-DEMO 532",
+    code: "GRAD 532",
     name: "Research in Music History",
     schedule: "Friday · 9:00–11:40 AM",
     color: "bg-amber-500",
