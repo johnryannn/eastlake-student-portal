@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Eastman School of Music Student Portal",
-  description: "A fictional student portal concept for Eastlake Conservatory of Music.",
+  description: "Eastman School of Music Student Portal",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
