@@ -51,12 +51,12 @@ export default function App() {
       <header className="border-b border-slate-200 bg-white">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-5">
           <div className="flex items-center gap-4">
-            <div className="grid h-11 w-11 place-items-center rounded-xl bg-indigo-700 font-serif text-xl font-bold text-white shadow-sm">
-              EC
+            <div className="grid h-12 w-12 place-items-center rounded-xl border-2 border-blue-800 bg-yellow-400 text-lg font-black tracking-tight text-blue-900 shadow-sm ring-2 ring-yellow-200">
+              ESM
             </div>
             <div>
-              <p className="text-xs font-bold tracking-[0.17em] text-indigo-700 uppercase">
-                Eastlake Conservatory
+              <p className="text-xs font-bold tracking-[0.12em] text-blue-800 uppercase">
+                Eastlake Standard Mockup
               </p>
               <h1 className="mt-1 text-xl font-semibold tracking-tight">
                 Student Dashboard
