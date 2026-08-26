@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Eastlake Standard Mockup Student Portal",
+  title: "Eastman School of Music",
   description: "A fictional student portal concept for Eastlake Standard Mockup.",
 };
 
