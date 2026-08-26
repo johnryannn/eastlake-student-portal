@@ -296,7 +296,6 @@ export default function App() {
           </div>
         </section>
         <p className="mt-10 text-center text-[9px] tracking-[0.12em] text-slate-400 uppercase">
-          Sample — Not Valid · Fictional institution and data
         </p>
       </main>
     </div>
