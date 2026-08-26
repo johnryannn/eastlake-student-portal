@@ -20,7 +20,7 @@ const student = {
   address: "2502 N. Racine Avenue, Chicago, IL",
   academicQuarter: "Fall 2026",
   program: "Master of Music — Orchestral Studies",
-  school: "Eastlake Standard Mockup",
+  school: "Eastman School of Music",
   studentId: "ECM-2026-0427",
 };
 
@@ -56,7 +56,7 @@ export default function App() {
             </div>
             <div>
               <p className="text-xs font-bold tracking-[0.12em] text-blue-800 uppercase">
-                Eastlake Standard Mockup
+                Eastman School of Music
               </p>
               <h1 className="mt-1 text-xl font-semibold tracking-tight">
                 Student Dashboard
