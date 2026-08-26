@@ -18,7 +18,7 @@ const student = {
   name: "John Ryan",
   age: 28,
   address: "2502 N. Racine Avenue, Chicago, IL",
-  academicYear: "2026–2027",
+  academicQuarter: "Fall 2026",
   program: "Master of Music — Orchestral Studies",
   school: "Eastlake Conservatory of Music",
   studentId: "ECM-2026-0427",
@@ -92,8 +92,8 @@ export default function App() {
             </div>
             <dl className="grid grid-cols-2 gap-x-8 gap-y-4 rounded-2xl bg-white/5 p-5 text-sm ring-1 ring-white/10">
               <div>
-                <dt className="text-slate-400">Academic year</dt>
-                <dd className="mt-1 font-semibold">{student.academicYear}</dd>
+                <dt className="text-slate-400">Academic quarter</dt>
+                <dd className="mt-1 font-semibold">{student.academicQuarter}</dd>
               </div>
               <div>
                 <dt className="text-slate-400">Student ID</dt>
