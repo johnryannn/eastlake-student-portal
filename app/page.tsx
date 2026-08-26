@@ -17,7 +17,7 @@ import {
 const student = {
   name: "John Ryan",
   age: 28,
-  address: "1842 W. Addison Street, Chicago, IL 60613",
+  address: "2502 N. Racine Avenue, Chicago, IL",
   academicYear: "2026–2027",
   program: "Master of Music — Orchestral Studies",
   school: "Eastlake Conservatory of Music",
