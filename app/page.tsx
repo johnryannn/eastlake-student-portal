@@ -92,7 +92,7 @@ export default function App() {
             </div>
             <dl className="grid grid-cols-2 gap-x-8 gap-y-4 rounded-2xl bg-white/5 p-5 text-sm ring-1 ring-white/10">
               <div>
-                <dt className="text-slate-400">Academic quarter</dt>
+                <dt className="text-slate-400">Acedemic Term</dt>
                 <dd className="mt-1 font-semibold">{student.academicQuarter}</dd>
               </div>
               <div>
